@@ -1,0 +1,37 @@
+div {
+    display: inline-block !important;
+    height: 10px;
+    
+}
+ body { 
+    background-color: peachpuff;
+ }
+
+ .spans2 {
+    padding-left: 75%;
+ }
+
+ #showParagraph1 {
+     padding-left: 25%;
+     color: orangered;
+     padding-right: 25%;
+ }
+
+ #showParagraph2 {
+    padding-left: 25%;
+    color: orangered;
+    padding-right: 25%;
+}
+
+#title{
+    color: red;
+    font-weight: bold;
+    padding-right: 40%;
+    padding-left: 40%;
+}
+
+#subtitle{
+    color: red;
+    font-weight: 500;
+    padding-left: 45%;
+}
